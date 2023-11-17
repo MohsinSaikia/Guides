@@ -143,13 +143,11 @@
 }
 .spacing{
 	display: flex;
-  column-gap: 100px;
+	column-gap: 100px;
 	justify-content: space-between;
-	padding-top:30px;
-	margin-left:150px;
-	margin-right:150px;
-	padding-left:50px;
-	padding-right:50px;
+	margin-top:20px;
+	margin-right:50px;
+	
 }
 .pop-out-image p {
   display: block;
@@ -162,11 +160,8 @@
   display: flex;
   justify-content: center; 
   align-items: center; 
-  gap: 20px; 
+  gap: 80px; 
 }
 
 
-.centered hr {
-  margin: 0 auto;
-  margin-top: 40px;
-}
+
