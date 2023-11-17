@@ -141,7 +141,12 @@
   transform: scale(1.1);
   text-align: center;
 }
-
+.spacing{
+	display: flex;
+	column-gap: 100px;
+	justify-content: space-between;
+	margin-top:20px;
+	margin-right:50px;
 	
 }
 .pop-out-image p {
